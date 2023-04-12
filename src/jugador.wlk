@@ -1,4 +1,6 @@
-
+import elementos.*
+import armas.*
+import personajes.*
 
 
 object luisa {
